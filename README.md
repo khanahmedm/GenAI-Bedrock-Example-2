@@ -1,1 +1,1 @@
-"# GenAI-Bedrock-Example-2" 
+# GenAI-Bedrock-Example-2 
